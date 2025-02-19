@@ -47,7 +47,7 @@ OPENAI_API_KEY=sua_chave_aqui
 npm run dev
 ```
 
-📌 Comandos Disponíveis
+## 📌 Comandos Disponíveis
 
 /devocional – Envia um devocional completo por dia (versículo, reflexão e oração).   obs: dados mockados no momento atual.
 
