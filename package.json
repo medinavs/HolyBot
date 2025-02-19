@@ -1,0 +1,25 @@
+{
+  "name": "holybot",
+  "version": "1.0.0",
+  "main": "src/server.ts",
+  "scripts": {
+    "start": "tsx src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^4.85.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "@types/node-telegram-bot-api": "^0.64.7",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
